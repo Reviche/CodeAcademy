@@ -1,0 +1,15 @@
+/Users/kevinramirez/Documents/CodeAcademy/bin/Debug/net6.0/app
+/Users/kevinramirez/Documents/CodeAcademy/bin/Debug/net6.0/app.deps.json
+/Users/kevinramirez/Documents/CodeAcademy/bin/Debug/net6.0/app.runtimeconfig.json
+/Users/kevinramirez/Documents/CodeAcademy/bin/Debug/net6.0/app.dll
+/Users/kevinramirez/Documents/CodeAcademy/bin/Debug/net6.0/app.pdb
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.AssemblyInfo.cs
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.dll
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/refint/app.dll
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.pdb
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/app.genruntimeconfig.cache
+/Users/kevinramirez/Documents/CodeAcademy/obj/Debug/net6.0/ref/app.dll
